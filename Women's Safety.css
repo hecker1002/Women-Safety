@@ -1,0 +1,16 @@
+.head {
+   
+ 
+}
+
+h1 {
+    color : red ;
+    align-items: center;
+    text-align: center;
+}
+body {
+    background-image: url('women.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: red;
+}
